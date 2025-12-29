@@ -1,5 +1,5 @@
 # Selenium_Mercado_Libre
-Cotizacion de PS5 7 Automatizada
+Cotizacion de PS5 / Automatizada
 
 ## 🚀 Tecnologías utilizadas
 - **Python 3.11+**
