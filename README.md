@@ -1,5 +1,5 @@
 # Selenium_Mercado_Libre
-Prueba tecnica Global Hits - Eder Hoppe
+Cotizacion de PS5 7 Automatizada
 
 ## 🚀 Tecnologías utilizadas
 - **Python 3.11+**
